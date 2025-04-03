@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194118551352",
+    "project_id": "pethouse-v1",
+    "storage_bucket": "pethouse-v1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194118551352:android:f32c43bcfa92797e63a3cd",
+        "android_client_info": {
+          "package_name": "com.example.pethouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrn8y8zNXmezqghTjfvIuopgVuViSEUIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
